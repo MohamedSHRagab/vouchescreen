@@ -39,7 +39,8 @@ dependencies:
   excel: ^1.1.5
   crud_table: ^0.0.3
   easy_autocomplete: ^1.5.0
-
+  http: ^0.13.4
+  provider: ^4.3.3
 dev_dependencies:
   flutter_test:
     sdk: flutter
